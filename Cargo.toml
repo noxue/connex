@@ -1,6 +1,6 @@
 [package]
 name = "connex"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A tcp communication library that supports custom encryption and decryption and automatic reconnection."
 categories = ["network-programming"]
